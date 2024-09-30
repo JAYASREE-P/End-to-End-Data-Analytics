@@ -1,3 +1,5 @@
+End-to-End Data Analytics Project
+
 Project Overview
 This project demonstrates an end-to-end data analytics pipeline using Python and SQL.
 It covers data extraction, transformation, and loading (ETL), data cleaning, analysis, and visualization.
@@ -22,5 +24,6 @@ Install Python 3.x and a SQL-based database (MySQL/PostgreSQL).
 Clone the repository.
 Install the necessary Python libraries using:
 pip install -r requirements.txt
-[project architecture](https://github.com/user-attachments/assets/c2e44573-51c7-4f45-a391-16b28fe60cd1)
 
+
+![project architecture](https://github.com/user-attachments/assets/02fad126-7078-4c25-bb42-196dfc2a8e19)
