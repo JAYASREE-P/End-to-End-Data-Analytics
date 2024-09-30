@@ -31,8 +31,11 @@ Database: Any SQL-based database system like MySQL, PostgreSQL, etc.
 Prerequisites
 
 Install Python 3.x and a SQL-based database (MySQL/PostgreSQL).
+
 Clone the repository.
+
 Install the necessary Python libraries using:
+
 pip install -r requirements.txt
 
 
