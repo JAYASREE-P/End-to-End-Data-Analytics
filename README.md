@@ -20,7 +20,7 @@ Automation: Automating parts of the pipeline for future scalability.
 
 Technologies Used
 
-Python: Pandas, NumPy, Matplotlib, Seaborn for data processing and visualization.
+Python: Pandas for data processing and visualization.
 
 SQL: Used for querying and managing relational databases.
 
